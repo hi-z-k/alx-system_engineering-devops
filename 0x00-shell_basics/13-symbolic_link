@@ -1,2 +1,2 @@
 #!/bin/bash
-ln ls /bin/ls --symbolic
+ln __ls__ /bin/ls --symbolic
